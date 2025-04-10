@@ -82,6 +82,6 @@ Este projeto utiliza um conjunto de dados reais de pacientes diagnosticados com 
 **Vinicius Rodrigues de Oliveira**  
 📚 Estudante de Análise e Desenvolvimento de Sistemas - FIAP  
 🔧 Técnico em Automação Industrial | Transição para Tecnologia  
-📌 GitHub: [seu_usuario_aqui](https://github.com/seu_usuario_aqui)
+
 
 ---
